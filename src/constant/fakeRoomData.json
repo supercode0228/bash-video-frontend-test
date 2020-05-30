@@ -1,0 +1,59 @@
+[
+	{
+		"id": "1",
+		"name": "Room A",
+		"isJoin": true,
+		"members": [
+			{
+				"name": "Your name",
+				"avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+			},
+			{
+				"name": "Partner1",
+				"avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NjYzMzE1MV5BMl5BanBnXkFtZTgwNTA4NDY4OTE@._V1_UX172_CR0,0,172,256_AL_.jpg"
+			},
+			{
+				"name": "Partner2",
+				"avatar": "https://randomuser.me/api/portraits/men/97.jpg"
+			},
+			{
+				"name": "Partner3",
+				"avatar": "https://imgix.bustle.com/2017/4/20/ec0c4328-bd1a-45e7-b0d6-447a751f3b3f.jpg?w=970&h=546&fit=crop&crop=faces&auto=format%2Ccompress&cs=srgb&q=70"
+			},
+			{
+				"name": "Partner4",
+				"avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNjE5MzY5M15BMl5BanBnXkFtZTgwMDI5ODMxODE@._V1_UY256_CR98,0,172,256_AL_.jpg"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Room B",
+		"isJoin": false,
+		"members": [
+			{
+				"name": "Partner1",
+				"avatar": "https://pbs.twimg.com/profile_images/652875667416219648/NY9hnAbp.jpg"
+			},
+			{
+				"name": "Partner2",
+				"avatar": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg-1024x683.jpg"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Room C",
+		"isJoin": false,
+		"members": [
+			{
+				"name": "Partner1",
+				"avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+			},
+			{
+				"name": "Partner2",
+				"avatar": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTcwYjA3NGQtNDU4NS00OWVkLTlmM2MtM2Q4NzA0ZjkxYTA3XkEyXkFqcGdeQXVyMjc4NTQyNTQ@._V1_UX172_CR0,0,172,256_AL_.jpg"
+			}
+		]
+	}
+]
